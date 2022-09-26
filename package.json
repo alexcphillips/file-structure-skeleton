@@ -1,0 +1,23 @@
+{
+    "name": "file-structure-skeleton",
+    "version": "1.0.0",
+    "description": "Creating a package on the npm registry to create files and directories for new projects",
+    "main": "index.js",
+    "scripts": {
+        "start": "node lib"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alexcphillips/file-structure-skeleton.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alexcphillips/file-structure-skeleton/issues"
+    },
+    "homepage": "https://github.com/alexcphillips/file-structure-skeleton#readme",
+    "dependencies": {
+        "path": "^0.12.7"
+    }
+}
